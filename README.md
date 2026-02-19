@@ -63,5 +63,5 @@ make
 ## Author
 
 Ansh Soni\
-GitHub: https://github.com/anshs-dev\
-LinkedIn: https://www.linkedin.com/in/anshs-dev/
+GitHub: https://github.com/anshika4-dev/
+LinkedIn: https://www.linkedin.com/in/anshika4-dev/
